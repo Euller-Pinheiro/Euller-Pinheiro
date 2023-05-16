@@ -1,4 +1,4 @@
-## Olá eu sou a Euller Pinheiro, Dev Jr.!
+## Olá eu sou o Euller Pinheiro, Dev Jr.!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EULLER-PINHEIRO&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EULLER-PINHEIRO&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

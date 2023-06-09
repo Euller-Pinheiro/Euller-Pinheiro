@@ -1,27 +1,61 @@
-## Olá eu sou o Euller Pinheiro, Dev Jr.!
+<div align=center>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EULLER-PINHEIRO&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EULLER-PINHEIRO&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Euller+Pinheiro;Tenho+23+anos.;Sou+Dev+JR.;)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Euller-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Euller-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Euller-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Euller-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Euller-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Euller-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Euller-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Euller-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Euller-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://u-static.fotor.com/images/text-to-image/result/PRO-b5cd55848e344a9788d85e35081e91ba.jpg">
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Euller-Pinheiro&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
   
-  ##
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euller-Pinheiro&theme=github_dark&layout=compact&hide_border=true" />
+</a> 
+  
+  <a href="mailto:contato@eullerpinheiro.com.br">
+    <img src="https://img.shields.io/badge/Gmail-2383FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/euller-pinheiro">
+    <img src="https://img.shields.io/badge/LinkedIn-2383FF?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/euller-pinheiro">
+    <img src="https://img.shields.io/badge/Instagram-2383FF?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+ </div>
  
-<div> 
-  <a href="https://instagram.com/euller_pinheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Yd8rfSZC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:eullerpinheiro2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/euller-pinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ # Skills in
+ <div style="display: inline-block"><br>
+    <img align="center" alt="figma" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img align="center" alt="html5" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="css3" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="github" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   
+    <img align="center" alt="node" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="typescript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="angular" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+ </div>
+ 
+ <br><br>
+ 
+ # I'm Currently Studying
+  <div style="display: inline-block"><br>
+      <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+      <img align="center" alt="java" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img align="center" alt="node" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img align="center" alt="typescript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img align="center" alt="angular" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+      <img align="center" alt="kotlin" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      <img align="center" alt="net" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+      <img align="center" alt="csharp" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      <img align="center" alt="sql" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+ </div>
+ 
+ 
+ 
+
+
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF&section=footer" />
+  
   
 </div>

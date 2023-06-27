@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/euller-pinheiro">
     <img src="https://img.shields.io/badge/LinkedIn-2383FF?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/euller-pinheiro">
+  <a href="https://www.instagram.com/euller_pinheiro">
     <img src="https://img.shields.io/badge/Instagram-2383FF?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  </div>
